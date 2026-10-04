@@ -1,0 +1,6 @@
+numpy
+pypdf
+python-docx
+python-pptx
+reportlab      # only needed by make_kb.py to GENERATE the sample KB
+matplotlib     # optional: chart in evaluate.py
